@@ -11,6 +11,8 @@ Data Source: New York City Taxi & Limousine Commission Data
 ## Executive Summary
 This work product is a dashboard illustrating NYC taxi’s whole day on Christmas Day in 2015. It highlights that day’s travel peak hours, travel distances, pick-up locations, and also compares the performance of both yellow and green cab in the city. We choose the data from the New York City Taxi & Limousine Commission website, which contains the yellow and green taxi trips on December 25, 2015. Tableau is the main tool for data visualization.
 
+![image](https://user-images.githubusercontent.com/43686840/54178610-af90fd80-4453-11e9-835d-7cc7070325b8.png)
+
 ## Project Goal
 The dashboard has two different target audience. The first one is the transportation department of New York City. By looking at history records of Christmas Day’s taxi transportation, the department can have a basic idea of how the traffic will be for the following Christmas Day. The top-left graph shows the traffic peaks and average speed on road. Meanwhile, tourists from other cities also contribute to heavy traffic, which is shown in the “travel from the JFK international airport”. If the transportation department gets good preparation for the situation, they can take quick actions when necessary. In addition, the comparison of yellow and green cab is a good reference for future management.
 
